@@ -59,7 +59,7 @@ refresh_token = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 1. Create an account (or login) at
 
-  [https://developer.constantcontact.com/](https://developer.constantcontact.com/)
+  [https://v3.developer.constantcontact.com/](https://v3.developer.constantcontact.com/)
 
 2. Create a new Application at
 
@@ -85,7 +85,7 @@ run `bin/init.py` to generate an **access_token** and **refresh_token**
 
 #### Required Steps
 
-1. You will need to gather a *code* from Constant Contact. After you give permission you will be redirected to an invalid URL with the code attached at the end of it. You'll want to put this code in your configuration file.
+1. You will need to gather a *code* from Constant Contact. After you give permission you will be redirected to an invalid URL with the code attached at the end of it. You'll want to enter this code as your run your init.py file.
 
 ![alt Generate Code Screenshot](images/code.png)
 
